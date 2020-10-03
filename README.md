@@ -12,8 +12,8 @@ beastin 1
 bottlein 1  
 notessin 1  
   
-Counting each different word: 
-bottle counts as 2  
+Counting each different word:   
+bottle counts as 2    
 basketball counts as 1  
 basketballs counts as 1 
 
