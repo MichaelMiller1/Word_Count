@@ -5,16 +5,16 @@ Compiling :
 
 spirit:~% python3 wdcount2.py r.txt
 
-poppin 3
-mikein 2
-computerin 1
-beastin 1
-bottlein 1
-notessin 1
-
-Counting each different word:
-bottle counts as 2
-basketball counts as 1
-basketballs counts as 1
+poppin 3  
+mikein 2  
+computerin 1  
+beastin 1   
+bottlein 1  
+notessin 1  
+  
+Counting each different word: 
+bottle counts as 2  
+basketball counts as 1  
+basketballs counts as 1 
 
 Number of words in text file : 13
